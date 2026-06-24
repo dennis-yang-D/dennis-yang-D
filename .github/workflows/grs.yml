@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=synthwave
+          options: username=${{ github.repository_owner }}&layout=donut-vertical&langs_count=15&theme=synthwave
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
