@@ -1,3 +1,3 @@
 whats up
 
-[![My GitHub stats](./profile/top-langs.svg)]
+![Top Languages](./profile/top-langs.svg)
