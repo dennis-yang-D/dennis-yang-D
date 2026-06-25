@@ -1,3 +1,4 @@
 whats up
 
-![Top Languages](./profile/top-langs.svg)
+![Stats pin](profile/pin-stats-organization-github-readme-stats.svg)
+![Top Languages](profile/top-langs.svg)
